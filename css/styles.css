@@ -16,14 +16,29 @@ header h2 {
 }
 
 footer {
-    background-image: linear-gradient(#e1faf2, white);
     padding: 20px 0;
 }
 
-.jumbotron {
+.navbar {
     padding: 30px;
-    background-color:rgb(98, 182, 139);   
+    background-color:#ADEAEA;
     color: white
+}
+
+.name {
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.title {
+    color: white; 
+    font-size: 20px;
+}
+
+.navbar-nav {
+    color: white; 
+    font-size: 25px;
 }
 
 .row-content {
