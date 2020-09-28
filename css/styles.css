@@ -46,3 +46,31 @@ footer {
     border-bottom: 1px ridge;
     min-height: 200px;
 }
+
+.fa-github {
+    color: #31a1a5;
+}
+
+.fa-linkedin {
+    color: #31a1a5;
+}
+
+.fa-twitter {
+    color: #31a1a5;
+}
+
+.fa-youtube {
+    color: #31a1a5;
+}
+
+.fa-phone {
+    color: black; 
+}
+
+.fa-email {
+    color: black; 
+}
+
+.contact {
+    font-size: 25px;
+}
