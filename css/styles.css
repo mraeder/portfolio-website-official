@@ -15,7 +15,16 @@ header h2 {
     color: #CEC8FF;
 }
 
-footer {
+h3 {
+    color: rgb(253, 169, 141); 
+    font-weight: bold;
+}
+
+.bio-text {
+    font-size: 24px;
+}
+
+.site-footer{ 
     padding: 20px 0;
 }
 
@@ -63,14 +72,15 @@ footer {
     color: #31a1a5;
 }
 
-.fa-phone {
-    color: black; 
-}
-
 .fa-email {
     color: black; 
 }
 
 .contact {
     font-size: 25px;
+    color: #29868a;
+}
+
+.about-card {
+    background-color: #e45d8e;
 }
