@@ -97,3 +97,11 @@ h3 {
 .about-card {
     background-color: #e95c90;
 }
+
+.upcoming-projects {
+    font-size: 25px;
+}
+
+.card-body {
+    font-size: 18px;
+}
