@@ -21,7 +21,7 @@ h3 {
 }
 
 h4 {
-    color: #007BFF;
+    color:  #eb82a8;
     font-size: 23px;
     font-weight: bold;
 }
@@ -75,29 +75,14 @@ h4 {
     min-height: 200px;
 }
 
-.fa-github {
-    color: #31a1a5;
-}
+.fa-github, .fa-linkedin, .fa-twitter, .fa-youtube {
+    color:  #6cc4c4;
+}  
 
-.fa-linkedin {
-    color: #31a1a5;
-}
-
-.fa-twitter {
-    color: #31a1a5;
-}
-
-.fa-youtube {
-    color: #31a1a5;
-}
-
-.fa-email {
-    color: black; 
-}
 
 .contact {
     font-size: 25px;
-    color: #29868a;
+    color: #6cc4c4;
 }
 
 .about-card {
