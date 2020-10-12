@@ -20,6 +20,12 @@ h3 {
     font-weight: bold;
 }
 
+h4 {
+    color: #007BFF;
+    font-size: 23px;
+    font-weight: bold;
+}
+
 .bio-text {
     font-size: 24px;
 }
@@ -41,7 +47,7 @@ h3 {
 }
 
 .title {
-    color: #1f5fd6;
+    color: #007BFF;
     font-size: 20px;
     font-weight: bold;
 }
