@@ -21,9 +21,17 @@ h3 {
 }
 
 h4 {
-    color:  #eb82a8;
-    font-size: 23px;
-    font-weight: bold;
+    color: rgb(255, 145, 109); 
+    font-size: 24px;
+}
+
+h6 {
+    color: #007BFF;
+}
+
+h7 {
+    color:  #54afaf;
+    font-size: 20px;
 }
 
 .bio-text {
