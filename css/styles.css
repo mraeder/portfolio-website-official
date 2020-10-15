@@ -26,7 +26,7 @@ h4 {
 }
 
 h6 {
-    color: #007BFF;
+    color:rgb(255, 145, 109); 
 }
 
 h7, h8 {
@@ -34,8 +34,29 @@ h7, h8 {
     font-size: 23px;
 }
 
+a:link {
+    color: #ADEAEA;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #b2f0f0;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color:rgb(253, 169, 141); 
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: rgb(0, 204, 255);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
 .bio-text {
-    font-size: 24px;
+    font-size: 23px;
 }
 
 .site-footer{ 
@@ -43,19 +64,19 @@ h7, h8 {
 }
 
 .navbar {
-    padding: 30px;
-    background-color:#ADEAEA;
-    color: white
+    padding: 15px;
+    background-color:#17a5a3;
+    color: white;
 }
 
 .name {
     color: white;
     font-weight: bold;
-    font-size: 35px;
+    font-size: 25px;
 }
 
 .title {
-    color: #007BFF;
+    color:#ecfbfd;
     font-size: 20px;
     font-weight: bold;
 }
@@ -67,7 +88,6 @@ h7, h8 {
 }
 
 .navbar-nav {
-    color: white; 
     font-size: 25px;
 }
 
@@ -84,17 +104,16 @@ h7, h8 {
 }
 
 .fa-github, .fa-linkedin, .fa-twitter, .fa-youtube {
-    color:  #6cc4c4;
+    color:  #17a5a3;
 }  
-
 
 .contact {
     font-size: 25px;
-    color: #6cc4c4;
+    color: #17a5a3;
 }
 
 .about-card {
-    background-color: #eb82a8;
+    background-color: rgb(253, 177, 152); 
 }
 
 .upcoming-projects {
