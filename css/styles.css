@@ -27,6 +27,7 @@ h4 {
 
 h6 {
     color:rgb(255, 145, 109); 
+    font-size: 20px;
 }
 
 h7, h8 {
@@ -34,26 +35,23 @@ h7, h8 {
     font-size: 23px;
 }
 
-a:link {
+.nav-link:link {
     color: #ADEAEA;
     background-color: transparent;
     text-decoration: none;
 }
-a:visited {
+.nav-link:visited {
     color: #b2f0f0;
     background-color: transparent;
     text-decoration: none;
 }
-a:hover {
+.nav-link:hover {
     color:rgb(253, 169, 141); 
     background-color: transparent;
     text-decoration: underline;
 }
-a:active {
-    color: rgb(0, 204, 255);
-    background-color: transparent;
-    text-decoration: underline;
-}
+
+
 
 .bio-text {
     font-size: 23px;
@@ -78,7 +76,7 @@ a:active {
 .title {
     color:#ecfbfd;
     font-size: 20px;
-    font-weight: bold;
+    font-weight: bold; 
 }
 
 .name {
