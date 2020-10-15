@@ -51,7 +51,21 @@ h7, h8 {
     text-decoration: underline;
 }
 
-
+a:link {
+    color: #ADEAEA;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #0a918e;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color:rgb(253, 169, 141); 
+    background-color: transparent;
+    text-decoration: underline;
+}
 
 .bio-text {
     font-size: 23px;
