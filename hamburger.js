@@ -7,13 +7,4 @@ $('.collapsed').click(function(){
             console.log(targetElement+" is expanded");
         }
         else{console.log(targetElement+" is not expanded");}
-        var text = $('#'+targetElement).text();
-        if (text == 'Show More')
-        {
-            $('#'+targetElement).text('Show Less');
-        }
-        else
-        {
-            $('#'+targetElement).text('Show More');
-        }
     });
