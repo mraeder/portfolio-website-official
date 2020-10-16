@@ -81,10 +81,22 @@ a:hover {
     color: white;
 }
 
-.name {
-    color: white;
+.nav-link1 {
+    color: #ADEAEA;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 28px;
     font-weight: bold;
-    font-size: 25px;
+}
+.nav-link1:visited {
+    color: #b2f0f0;
+    background-color: transparent;
+    text-decoration: none;
+}
+.nav-link1:hover {
+    color:rgb(253, 169, 141); 
+    background-color: transparent;
+    text-decoration: underline;
 }
 
 .title {
